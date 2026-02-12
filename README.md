@@ -1,5 +1,4 @@
 # Intelligent-Work-Safety-Monitoring-System
-Intelligent Work Safety Monitoring System - Server Dashboard
 This repository contains the server-side implementation of an IoT-based industrial safety monitoring system. The system is designed to aggregate real-time video streams from multiple edge devices (clients) performing MediaPipe-based posture analysis.
 
 Core Features
